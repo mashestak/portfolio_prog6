@@ -9,5 +9,4 @@
 ## [Лабораторная работа 7]()
 ## [Лабораторная работа 8](https://drive.google.com/file/d/1H-m86Wdk2we-Tb5y_TloB8XbStZ159xi/view?usp=sharing)
 ## [Лабораторная работа 9]()
-## [Инструменты для построения GUI на Python]()
 
